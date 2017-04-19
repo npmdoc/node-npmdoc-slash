@@ -1,9 +1,14 @@
-# api documentation for  [slash (v1.0.0)](https://github.com/sindresorhus/slash)  [![npm package](https://img.shields.io/npm/v/npmdoc-slash.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-slash) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-slash.svg)](https://travis-ci.org/npmdoc/node-npmdoc-slash)
+# npmdoc-slash
+
+#### api documentation for  [slash (v1.0.0)](https://github.com/sindresorhus/slash)  [![npm package](https://img.shields.io/npm/v/npmdoc-slash.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-slash) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-slash.svg)](https://travis-ci.org/npmdoc/node-npmdoc-slash)
+
 #### Convert Windows backslash paths to slash paths
 
-[![NPM](https://nodei.co/npm/slash.png?downloads=true)](https://www.npmjs.com/package/slash)
+[![NPM](https://nodei.co/npm/slash.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/slash)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-slash/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-slash_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-slash/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-slash/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-slash/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-slash/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-slash/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-slash/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Sindre Sorhus",
-        "email": "sindresorhus@gmail.com",
         "url": "http://sindresorhus.com"
     },
     "bugs": {
@@ -54,13 +58,11 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "sindresorhus",
-            "email": "sindresorhus@gmail.com"
+            "name": "sindresorhus"
         }
     ],
     "name": "slash",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/sindresorhus/slash.git"
@@ -71,16 +73,6 @@
     "version": "1.0.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module slash](#apidoc.module.slash)
-
-
-
-# <a name="apidoc.module.slash"></a>[module slash](#apidoc.module.slash)
 
 
 
