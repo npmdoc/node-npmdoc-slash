@@ -1,6 +1,6 @@
 # npmdoc-slash
 
-#### api documentation for  [slash (v1.0.0)](https://github.com/sindresorhus/slash)  [![npm package](https://img.shields.io/npm/v/npmdoc-slash.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-slash) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-slash.svg)](https://travis-ci.org/npmdoc/node-npmdoc-slash)
+#### basic api documentation for  [slash (v1.0.0)](https://github.com/sindresorhus/slash)  [![npm package](https://img.shields.io/npm/v/npmdoc-slash.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-slash) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-slash.svg)](https://travis-ci.org/npmdoc/node-npmdoc-slash)
 
 #### Convert Windows backslash paths to slash paths
 
@@ -70,7 +70,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
